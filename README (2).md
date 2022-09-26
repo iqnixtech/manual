@@ -58,18 +58,10 @@
 ![Тут текст](https://ie.wampi.ru/2022/09/18/Group-149.png) 
 Рисунок 4.1 - «Электронный журнал»  
 
-<!DOCTYPE html> 
-<html> 
- <head> 
-  <meta charset="utf-8">
- </head> 
- <body> 
-  <p> 
-   <img src="https://ic.wampi.ru/2022/09/26/Group-183-1.png" alt= "Картинка 1" width="375" height="220" > 
-  <img src="https://im.wampi.ru/2022/09/24/Group-182-2.png" alt= "Картинка 2" width="375" height="220" > 
-  </p>     
- </body> 
-</html>
+![Тут текст](https://ie.wampi.ru/2022/09/26/image-6-1.png)
+Рисунок 4.2 - «Выбор группы»
+
+![Тут текст](https://ic.wampi.ru/2022/09/26/image-6-1.png)
 
 ![Тут текст](https://ic.wampi.ru/2022/09/18/Group-141.png)
  Рисунок 4.4 - «Страница электронного журнала»
