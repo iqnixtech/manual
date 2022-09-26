@@ -58,7 +58,7 @@
 ![Тут текст](https://ie.wampi.ru/2022/09/18/Group-149.png) 
 Рисунок 4.1 - «Электронный журнал»  
 
-![image-6-1241fd92aa5c59b3b.png](https://ie.wampi.ru/2022/09/26/image-6-1241fd92aa5c59b3b.png)
+[![image-6-1241fd92aa5c59b3b.th.png](https://ie.wampi.ru/2022/09/26/image-6-1241fd92aa5c59b3b.th.png)](https://wampi.ru/image/RW1QszZ)
 Рисунок 4.2 - «Выбор пары»
 
 ### 5 КТП Календарно-тематический план
