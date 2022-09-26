@@ -61,12 +61,20 @@
 ![Тут текст](https://ie.wampi.ru/2022/09/26/image-6-1241fd92aa5c59b3b.png)
 Рисунок 4.2 - «Выбор группы»
 
-![Тут текст](https://ie.wampi.ru/2022/09/18/image-7-1.png)
-Рисунок 4.3 - «Выбор пары»
-
-![Тут текст](https://ic.wampi.ru/2022/09/18/Group-141.png)
- Рисунок 4.4 - «Страница электронного журнала»
-
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+ </head>
+ <body>
+  <p>
+   <img src="https://ie.wampi.ru/2022/09/26/image-6-1241fd92aa5c59b3b.png" alt= "Картинка 1" width="315" height="160" >
+   <span>Рисунок 1.3.2 - «Выбор группы»</span>
+	 <img src="https://ie.wampi.ru/2022/09/18/image-7-1.png" alt= "Картинка 2" width="315" height="160" > 
+	<span>Рисунок 1.3.3 - «Выбор пары»</span>
+  </p>				
+ </body>
+</html>	
 
 ### 5 КТП Календарно-тематический план
 
