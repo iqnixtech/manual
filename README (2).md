@@ -104,7 +104,7 @@
 ***
 <div style="text-align: center;">
 
-![Тут текст](https://im.wampi.ru/2022/09/17/NOUNEIM.png "Our logo")
+![Тут текст](https://ic.wampi.ru/2022/09/26/OBLOZKA-VK-3.png "Our logo")
 
 </div>
 
